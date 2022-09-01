@@ -1,4 +1,4 @@
-Symbol table implementation using linked list:
+Symbol table implementation using linked list: 
 
 Symbol table is an important data structure created and maintained by compilers in order to
 store information about the occurrence of various identifiers such as variable names, function
